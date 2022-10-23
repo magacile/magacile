@@ -1,7 +1,6 @@
 ✨ EAI, RAPEIZE! Tamo aqui pra aprender um bocado sobre programação e, na melhor
 das hipóteses, ensinar algo também. Eu tô estudando engenharia e ainda não sei
-o que fazer com a minha vida, mas sei que deve ser algo relacionado com progra-
-mação.
+o que fazer com a minha vida, mas sei que deve ser algo relacionado com programação.
 
 Essa file README.md é para ✨SER ATUALIZADA✨ com algumas coisas que ainda
 não faço ideia, então here we go. Logo que tiver algo, vai tá aqui. Um abraço,
